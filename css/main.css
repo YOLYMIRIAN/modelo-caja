@@ -1,0 +1,37 @@
+p { color: blueviolet;
+}/** 
+Escribir el CSS necesario aqui
+*/
+p {
+ 
+  padding-left:  50px;
+  padding-right: 50px;
+  margin-left:   30px;
+  margin-right:  30px;
+  border: 1.5px dashed black;
+  text-align: center;
+  height:30px;
+  background: white;
+  width:900px;
+       
+    
+}
+
+div {
+  width: 300px;
+  padding-left:  60px;
+  padding-right: 6px;
+  margin-left:   20px;
+  margin-right:  1px;
+  border: 8px solid violet;
+  text-align: center;
+  height:50px;
+  width:1100px;
+  background: bisque;
+ padding-bottom: 40px;
+   
+  
+}
+
+
+
